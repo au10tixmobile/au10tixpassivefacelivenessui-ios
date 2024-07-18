@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixPassiveFaceLivenessUI",
-          url: "https://github.com/au10tixmobile/Au10tixPassiveFaceLivenessUI/archive/refs/tags/4.2.0.zip",
-          checksum: "f0d28195f96b167e1acf728cc016b1189872e6334a433ace693b74099b893608"
+          url: "https://github.com/au10tixmobile/Au10tixPassiveFaceLivenessUI/archive/refs/tags/4.2.1.zip",
+          checksum: "65b1165269b6a4cea9bdf5f15a05515f50816137ed866d56316cbafc34edca65"
         )
     ]
 )
